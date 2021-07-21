@@ -2,7 +2,7 @@
 /**
  * binary_tree_node - function to crate a binary tree node
  * @parent: the parent of the given node
- * @ value: the value to put in the new node
+ * @value: the value to put in the new node
  *
  * Return: pointer to te new node or null on failure
  **/
