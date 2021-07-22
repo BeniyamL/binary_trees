@@ -15,6 +15,8 @@ int binary_tree_is_bst(const binary_tree_t *tree)
 /**
  * is_bst - check Binary search tree
  * @tree: the root node
+ * @lwr: the minimum value(nagative infinity)
+ * @hgr: the maximum value (positive infinity)
  *
  * Return: 1 if ist is a bst 0 otherwise
  **/
